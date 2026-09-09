@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akinlosotu1
+- 👋 Hi, I’m @IQ_Oluwatosin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning introduction to programming with python
 - 💞️ I’m looking to collaborate on the study of programming 
